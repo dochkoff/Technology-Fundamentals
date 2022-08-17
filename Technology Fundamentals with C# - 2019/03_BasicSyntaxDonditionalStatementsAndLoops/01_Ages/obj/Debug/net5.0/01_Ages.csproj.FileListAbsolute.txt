@@ -1,0 +1,16 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/bin/Debug/net5.0/01_Ages.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/refint/01_Ages.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/01_Ages.genruntimeconfig.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_Ages/obj/Debug/net5.0/ref/01_Ages.dll
