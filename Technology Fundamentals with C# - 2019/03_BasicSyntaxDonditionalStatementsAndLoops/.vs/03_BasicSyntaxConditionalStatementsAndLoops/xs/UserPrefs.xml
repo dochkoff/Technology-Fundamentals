@@ -1,12 +1,14 @@
-﻿<Properties StartupConfiguration="{110A6B87-9AEA-4618-8B05-3002306DA97C}|Default">
+﻿<Properties VersionControlDisabled="True" StartupConfiguration="{110A6B87-9AEA-4618-8B05-3002306DA97C}|Default">
   <MonoDevelop.Ide.ItemProperties.02__Division FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01__Ages PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04__PrintAndSum FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
