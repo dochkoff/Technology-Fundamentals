@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{110A6B87-9AEA-4618-8B05-3002306DA97C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10_RageExpenses/10_RageExpenses.cs">
+    <Files>
+      <File FileName="10_RageExpenses/Program.cs" Line="30" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04_BasicSyntaxConditionalStatementsAndLoops_Exercise" expanded="True" selected="True">
+            <Node name="10_RageExpenses" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01__Ages PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/04_BasicSyntaxDonditionalStatementsAndLoops_Exercise/10_RageExpenses/10_RageExpenses.cs" relfile="10_RageExpenses/10_RageExpenses.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
