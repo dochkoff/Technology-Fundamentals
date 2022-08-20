@@ -42,7 +42,6 @@ namespace _10_RageExpenses
             }
             double rageExpenses = headsetPrice * trashedHeadsets + mousePrice * trashedMouses + keyboardPrice * trashedKeyboards + displayPrice * trashedDisplays;
             Console.WriteLine($"Rage expenses: {rageExpenses:F2} lv.");
-
         }
     }
 }

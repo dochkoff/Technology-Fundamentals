@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/03_BasicSyntaxConditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj": {}
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj": {}
   },
   "projects": {
-    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/03_BasicSyntaxConditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj": {
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/03_BasicSyntaxConditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj",
+        "projectUniqueName": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj",
         "projectName": "01_StudentInformation",
-        "projectPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/03_BasicSyntaxConditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj",
+        "projectPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_StudentInformation/01_StudentInformation.csproj",
         "packagesPath": "/Users/Dochkoff/.nuget/packages/",
-        "outputPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/03_BasicSyntaxConditionalStatementsAndLoops/01_StudentInformation/obj/",
+        "outputPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/01_StudentInformation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Dochkoff/.nuget/NuGet/NuGet.Config"

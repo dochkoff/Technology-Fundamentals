@@ -1,4 +1,19 @@
-﻿<Properties VersionControlDisabled="True" StartupConfiguration="{9BB90FBF-4800-414C-8674-370B45A4D161}|Default">
+﻿<Properties StartupConfiguration="{E2465278-0256-4CC3-861F-E44DF717CFE4}|Default" VersionControlDisabled="True">
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.03__Vecation FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.06__ForeignLanguages FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02__Passed FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04__PrintAndSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04__BackIn30Minutes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Division FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.12__EvenNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06__StrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03__PassedOrFailed FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01__StudentInformation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01__Ages PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,19 +26,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01__Ages PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04__PrintAndSum FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.06__StrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.03__Vecation FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02__Division FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05__MonthPrinter FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/05_Login.cs" relfile="05_Login/05_Login.cs" line="12" column="1" />
       <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/06_StrongNumber/06_StrongNumber.cs" relfile="06_StrongNumber/06_StrongNumber.cs" line="16" column="1" />
+      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/04_BackIn30Minutes/04_BackIn30Minutes.cs" relfile="04_BackIn30Minutes/04_BackIn30Minutes.cs" line="12" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
