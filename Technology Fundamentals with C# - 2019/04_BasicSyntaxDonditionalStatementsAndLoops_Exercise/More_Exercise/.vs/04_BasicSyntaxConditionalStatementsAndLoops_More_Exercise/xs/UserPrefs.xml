@@ -6,7 +6,10 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="P01SortNumbers/P01SortNumbers.cs">
+    <Files>
+      <File FileName="P01SortNumbers/Program.cs" Line="18" Column="14" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
