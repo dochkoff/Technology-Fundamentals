@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{12E897D1-6D2C-4332-9963-1F21641146D7}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P04ReverseString FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.P01SortNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="P01SortNumbers/P01SortNumbers.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03GamingStore/P03GamingStore.cs">
     <Files>
-      <File FileName="P01SortNumbers/Program.cs" Line="18" Column="14" />
+      <File FileName="P03GamingStore/P03GamingStore.cs" Line="75" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="04_BasicSyntaxConditionalStatementsAndLoops_More_Exercise" expanded="True" selected="True">
-            <Node name="P01SortNumbers" expanded="True" />
+            <Node name="P03GamingStore" expanded="True" />
           </Node>
         </State>
       </Pad>
