@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P03_ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/P03_ExactSumOfRealNumbers.genruntimeconfig.cache

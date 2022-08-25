@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A05F7684-0579-4D71-B830-297C59D0EA6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SpecialNumbers/Program.cs">
+    <Files>
+      <File FileName="P05_SpecialNumbers/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06_DataTypesAndVariables" expanded="True">
+            <Node name="P05_SpecialNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P01__ConvertMetersToKilometers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P05__SpecialNumbers FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/bin/Debug/netcoreapp3.1/P02PoundsToDollars.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/bin/Debug/netcoreapp3.1/P02PoundsToDollars.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/bin/Debug/netcoreapp3.1/P02PoundsToDollars.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/bin/Debug/netcoreapp3.1/P02PoundsToDollars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/bin/Debug/netcoreapp3.1/P02PoundsToDollars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P02PoundsToDollars/obj/Debug/netcoreapp3.1/P02PoundsToDollars.genruntimeconfig.cache
