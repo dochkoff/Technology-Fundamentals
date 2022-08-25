@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{A05F7684-0579-4D71-B830-297C59D0EA6A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SpecialNumbers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SpecialNumbers/P05_SpecialNumbers.cs">
     <Files>
-      <File FileName="P05_SpecialNumbers/Program.cs" Line="1" Column="1" />
+      <File FileName="P05_SpecialNumbers/P05_SpecialNumbers.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="06_DataTypesAndVariables" expanded="True">
             <Node name="P05_SpecialNumbers" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="P05_SpecialNumbers.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -24,6 +24,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.P05__SpecialNumbers FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/bin/Debug/netcoreapp3.1/P05_SpecialNumbers.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/bin/Debug/netcoreapp3.1/P05_SpecialNumbers.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/bin/Debug/netcoreapp3.1/P05_SpecialNumbers.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/bin/Debug/netcoreapp3.1/P05_SpecialNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/bin/Debug/netcoreapp3.1/P05_SpecialNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P05_SpecialNumbers/obj/Debug/netcoreapp3.1/P05_SpecialNumbers.genruntimeconfig.cache
