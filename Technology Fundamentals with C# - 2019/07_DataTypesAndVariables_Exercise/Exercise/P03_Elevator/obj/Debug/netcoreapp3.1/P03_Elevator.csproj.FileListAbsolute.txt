@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/bin/Debug/netcoreapp3.1/P03_Elevator.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/bin/Debug/netcoreapp3.1/P03_Elevator.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/bin/Debug/netcoreapp3.1/P03_Elevator.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/bin/Debug/netcoreapp3.1/P03_Elevator.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/bin/Debug/netcoreapp3.1/P03_Elevator.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P03_Elevator/obj/Debug/netcoreapp3.1/P03_Elevator.genruntimeconfig.cache

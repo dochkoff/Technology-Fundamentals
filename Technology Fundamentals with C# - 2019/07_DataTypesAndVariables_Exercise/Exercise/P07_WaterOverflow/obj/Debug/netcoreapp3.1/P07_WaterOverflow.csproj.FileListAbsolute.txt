@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/bin/Debug/netcoreapp3.1/P07_WaterOverflow.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/bin/Debug/netcoreapp3.1/P07_WaterOverflow.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/bin/Debug/netcoreapp3.1/P07_WaterOverflow.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/bin/Debug/netcoreapp3.1/P07_WaterOverflow.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/bin/Debug/netcoreapp3.1/P07_WaterOverflow.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P07_WaterOverflow/obj/Debug/netcoreapp3.1/P07_WaterOverflow.genruntimeconfig.cache
