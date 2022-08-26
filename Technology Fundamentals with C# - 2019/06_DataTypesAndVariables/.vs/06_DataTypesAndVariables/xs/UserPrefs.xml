@@ -1,16 +1,10 @@
 ﻿<Properties StartupConfiguration="{A05F7684-0579-4D71-B830-297C59D0EA6A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SpecialNumbers/P05_SpecialNumbers.cs">
-    <Files>
-      <File FileName="P05_SpecialNumbers/P05_SpecialNumbers.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.P09__CharsToString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="06_DataTypesAndVariables" expanded="True">
-            <Node name="P05_SpecialNumbers" expanded="True">
-              <Node name="P05_SpecialNumbers.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="06_DataTypesAndVariables" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -18,6 +12,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P12__RefactorSpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P11__RefactorVolumeOfPyramid FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.P01__ConvertMetersToKilometers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

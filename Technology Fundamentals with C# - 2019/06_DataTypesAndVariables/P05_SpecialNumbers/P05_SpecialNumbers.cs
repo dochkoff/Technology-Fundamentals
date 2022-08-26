@@ -8,7 +8,7 @@ namespace P05_SpecialNumbers
         {
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 18; i <= n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 int num = i;
                 int sum = 0;
