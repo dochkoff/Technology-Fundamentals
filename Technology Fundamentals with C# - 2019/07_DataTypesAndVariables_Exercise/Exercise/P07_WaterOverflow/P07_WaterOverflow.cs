@@ -13,15 +13,16 @@ namespace P07_WaterOverflow
             for (int i = 0; i < lines; i++)
             {
                 int quantity = int.Parse(Console.ReadLine());
-                totalQuantity += quantity;
-
-                if (totalQuantity>tankCapacity)
+                
+                if (totalQuantity+quantity>tankCapacity)
                 {
-                    totalQuantity -= quantity;
                     Console.WriteLine("Insufficient capacity!");
                 }
+                else
+                {
+                    totalQuantity += quantity;
+                }
             }
-
             Console.WriteLine(totalQuantity);
         }
     }

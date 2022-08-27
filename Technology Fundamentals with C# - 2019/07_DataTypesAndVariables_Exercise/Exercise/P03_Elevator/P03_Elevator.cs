@@ -6,10 +6,10 @@ namespace P03_Elevator
     {
         static void Main(string[] args)
         {
-            double people = double.Parse(Console.ReadLine());
-            double capacity = double.Parse(Console.ReadLine());
+            int people = int.Parse(Console.ReadLine());
+            int capacity = int.Parse(Console.ReadLine());
 
-            int courses = (int)Math.Ceiling( people / capacity);
+            int courses = (int)Math.Ceiling((double) people / capacity);
 
             Console.WriteLine(courses);
         }

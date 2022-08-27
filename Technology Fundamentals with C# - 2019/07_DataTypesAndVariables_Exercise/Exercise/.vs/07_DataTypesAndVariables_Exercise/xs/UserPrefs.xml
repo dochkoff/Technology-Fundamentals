@@ -1,14 +1,18 @@
-﻿<Properties StartupConfiguration="{FA569F6B-6D61-4850-BD3E-1E3AA6998F73}|Default">
+﻿<Properties StartupConfiguration="{2D120E5B-CBA9-4BA1-A356-52C3E31737E1}|Default">
   <MonoDevelop.Ide.ItemProperties.P01__IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P07_WaterOverflow/P07_WaterOverflow.cs">
+  <MonoDevelop.Ide.ItemProperties.P10__PokeMon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P11_Snowballs/P11_Snowballs.cs">
     <Files>
-      <File FileName="P07_WaterOverflow/Program.cs" Line="9" Column="13" />
+      <File FileName="P11_Snowballs/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="07_DataTypesAndVariables_Exercise" expanded="True">
-            <Node name="P07_WaterOverflow" expanded="True" />
+            <Node name="P10_PokeMon" expanded="True" />
+            <Node name="P11_Snowballs" expanded="True">
+              <Node name="P11_Snowballs.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -17,11 +21,16 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.P07__WaterOverflow FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P11__Snowballs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P03__Elevator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P05__PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P08_BeerKegs/P08_BeerKegs.cs" relfile="P08_BeerKegs/P08_BeerKegs.cs" line="23" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P08__BeerKegs PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

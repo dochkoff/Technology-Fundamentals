@@ -9,9 +9,9 @@ namespace P05_PrintPartOfASCIITable
             int inputStart = int.Parse(Console.ReadLine());
             int inputEnd = int.Parse(Console.ReadLine());
 
-            for (int i = inputStart; i <= inputEnd; i++)
+            for (char i = (char)inputStart; i <= inputEnd; i++)
             {
-                Console.Write($"{(char)i} ");
+                Console.Write(i+" ");
             }
         }
     }
