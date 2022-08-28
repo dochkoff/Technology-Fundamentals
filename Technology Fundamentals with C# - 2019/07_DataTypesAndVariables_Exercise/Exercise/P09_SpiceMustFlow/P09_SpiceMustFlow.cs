@@ -12,17 +12,7 @@ namespace P09_SpiceMustFlow
 
             while (startingYield>=100)
             {
-                extractedSpice += startingYield;
-
-                if (extractedSpice>=26)
-                {
-                    extractedSpice -= 26;
-                }
-                else
-                {
-                    extractedSpice = 0;
-                }
-
+                extractedSpice += startingYield-26;
                 startingYield -= 10;
                 minedDays++;
             }
@@ -30,10 +20,6 @@ namespace P09_SpiceMustFlow
             if (extractedSpice >= 26)
             {
                 extractedSpice -= 26;
-            }
-            else
-            {
-                extractedSpice = 0;
             }
 
             Console.WriteLine(minedDays);
