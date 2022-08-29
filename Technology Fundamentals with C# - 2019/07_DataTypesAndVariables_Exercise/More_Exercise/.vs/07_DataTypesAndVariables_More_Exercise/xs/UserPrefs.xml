@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{39B2655E-51A5-41DF-B625-9E538C28E36C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="P01_DataTypeFinder/P01_DataTypeFinder.cs">
     <Files>
-      <File FileName="P01_DataTypeFinder/Program.cs" Line="9" Column="13" />
+      <File FileName="P01_DataTypeFinder/P01_DataTypeFinder.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True" selected="True">
-            <Node name="P01_DataTypeFinder" expanded="True" />
+          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True">
+            <Node name="P01_DataTypeFinder" expanded="True">
+              <Node name="P01_DataTypeFinder.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
