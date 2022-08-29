@@ -1,16 +1,9 @@
-﻿<Properties StartupConfiguration="{39B2655E-51A5-41DF-B625-9E538C28E36C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="P01_DataTypeFinder/P01_DataTypeFinder.cs">
-    <Files>
-      <File FileName="P01_DataTypeFinder/P01_DataTypeFinder.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{5C44C70A-3C0D-43DC-AEF6-70058F96EE6D}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True">
-            <Node name="P01_DataTypeFinder" expanded="True">
-              <Node name="P01_DataTypeFinder.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -18,9 +11,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P02__FromLeftToTheRight PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.P01__DataTypeFinder FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P01__DataTypeFinder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

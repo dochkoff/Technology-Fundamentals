@@ -11,6 +11,7 @@ namespace P01_DataTypeFinder
             int dataTypeInt;
             float dataTypeFloat;
             char dataTypeChar;
+            bool dataTypeBool;
 
             while (input!="END")
             {
@@ -26,7 +27,7 @@ namespace P01_DataTypeFinder
                 {
                     Console.WriteLine($"{input} is character type");
                 }
-                else if (input == "true" || input == "false")
+                else if (bool.TryParse(input, out dataTypeBool))
                 {
                     Console.WriteLine($"{input} is boolean type");
                 }
