@@ -3,7 +3,6 @@
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/bin/Debug/netcoreapp3.1/P01_DataTypeFinder.runtimeconfig.dev.json
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/bin/Debug/netcoreapp3.1/P01_DataTypeFinder.dll
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/bin/Debug/netcoreapp3.1/P01_DataTypeFinder.pdb
-/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/obj/Debug/netcoreapp3.1/P01_DataTypeFinder.csproj.AssemblyReference.cache
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/obj/Debug/netcoreapp3.1/P01_DataTypeFinder.AssemblyInfoInputs.cache
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/obj/Debug/netcoreapp3.1/P01_DataTypeFinder.AssemblyInfo.cs
 /Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/More_Exercise/P01_DataTypeFinder/obj/Debug/netcoreapp3.1/P01_DataTypeFinder.csproj.CoreCompileInputs.cache
