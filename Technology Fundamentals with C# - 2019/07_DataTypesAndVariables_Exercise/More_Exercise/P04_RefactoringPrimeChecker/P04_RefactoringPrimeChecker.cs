@@ -21,7 +21,14 @@ namespace P04_RefactoringPrimeChecker
                     }
                 }
 
-                Console.WriteLine("{0} -> {1}", currentNumber, isPrime);
+                if (isPrime==true)
+                {
+                    Console.WriteLine($"{currentNumber} -> true");
+                }
+                else
+                {
+                    Console.WriteLine($"{currentNumber} -> false");
+                }
             }
 
         }
