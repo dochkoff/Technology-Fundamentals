@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P02_PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/P02_PrintNumbersInReverseOrder.genruntimeconfig.cache

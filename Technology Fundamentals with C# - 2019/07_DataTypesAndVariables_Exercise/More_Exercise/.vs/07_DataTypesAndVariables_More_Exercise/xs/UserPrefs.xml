@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{39B2655E-51A5-41DF-B625-9E538C28E36C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P02_FromLeftToTheRight/P02_FromLeftToTheRight.cs">
+    <Files>
+      <File FileName="P02_FromLeftToTheRight/P02_FromLeftToTheRight.cs" Line="20" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P01__DataTypeFinder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

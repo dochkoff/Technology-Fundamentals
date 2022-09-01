@@ -1,9 +1,17 @@
 ﻿<Properties StartupConfiguration="{F8CD9F8F-59FC-4721-912B-4F33496AFE14}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P03__RoundingNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03_RoundingNumbers/P03_RoundingNumbers.cs">
+    <Files>
+      <File FileName="P03_RoundingNumbers/Program.cs" Line="9" Column="13" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09_Arrays" expanded="True" selected="True" />
+          <Node name="09_Arrays" expanded="True">
+            <Node name="P03_RoundingNumbers" expanded="True">
+              <Node name="P03_RoundingNumbers.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -13,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.01__DayOfWeek FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01__DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
