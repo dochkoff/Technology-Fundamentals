@@ -1,17 +1,10 @@
 ﻿<Properties StartupConfiguration="{5079B41D-A136-4D47-9B75-7A607C6898D2}|Default">
   <MonoDevelop.Ide.ItemProperties.P02__PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P03_RoundingNumbers/P03_RoundingNumbers.cs">
-    <Files>
-      <File FileName="P03_RoundingNumbers/P03_RoundingNumbers.cs" Line="19" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09_Arrays" expanded="True">
-            <Node name="P03_RoundingNumbers" expanded="True">
-              <Node name="P03_RoundingNumbers.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="09_Arrays" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
