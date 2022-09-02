@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/bin/Debug/netcoreapp3.1/P03_RoundingNumbers.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/bin/Debug/netcoreapp3.1/P03_RoundingNumbers.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/bin/Debug/netcoreapp3.1/P03_RoundingNumbers.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/bin/Debug/netcoreapp3.1/P03_RoundingNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/bin/Debug/netcoreapp3.1/P03_RoundingNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P03_RoundingNumbers/obj/Debug/netcoreapp3.1/P03_RoundingNumbers.genruntimeconfig.cache

@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{F8CD9F8F-59FC-4721-912B-4F33496AFE14}|Default">
-  <MonoDevelop.Ide.ItemProperties.P03__RoundingNumbers FirstBuild="True" />
+﻿<Properties StartupConfiguration="{5079B41D-A136-4D47-9B75-7A607C6898D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.P02__PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="P03_RoundingNumbers/P03_RoundingNumbers.cs">
     <Files>
-      <File FileName="P03_RoundingNumbers/Program.cs" Line="9" Column="13" />
+      <File FileName="P03_RoundingNumbers/P03_RoundingNumbers.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,9 +19,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P04__ReverseArrayOfStrings FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>01_DayOfWeek/P01_DayOfWeek.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.01__DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
