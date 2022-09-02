@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{5079B41D-A136-4D47-9B75-7A607C6898D2}|Default">
+﻿<Properties StartupConfiguration="{F8CD9F8F-59FC-4721-912B-4F33496AFE14}|Default">
   <MonoDevelop.Ide.ItemProperties.P02__PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SumEvenNumbers/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.P06__EvenAndOddSubtraction FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P08_CondenseArrayToNumber/P08_CondenseArrayToNumber.cs">
     <Files>
-      <File FileName="P05_SumEvenNumbers/Program.cs" Line="1" Column="1" />
+      <File FileName="P08_CondenseArrayToNumber/P08_CondenseArrayToNumber.cs" Line="10" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="09_Arrays" expanded="True">
-            <Node name="P05_SumEvenNumbers" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="P08_CondenseArrayToNumber" expanded="True">
+              <Node name="P08_CondenseArrayToNumber.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,11 +20,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P01__DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.P04__ReverseArrayOfStrings FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P07__EqualArrays FirstBuild="True" />
   <DisabledProjects>
     <String>01_DayOfWeek/P01_DayOfWeek.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.P08__CondenseArrayToNumber FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.P05__SumEvenNumbers FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
