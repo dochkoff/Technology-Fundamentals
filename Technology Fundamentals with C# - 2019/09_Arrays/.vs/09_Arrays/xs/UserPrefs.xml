@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{5079B41D-A136-4D47-9B75-7A607C6898D2}|Default">
   <MonoDevelop.Ide.ItemProperties.P02__PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="P05_SumEvenNumbers/Program.cs">
+    <Files>
+      <File FileName="P05_SumEvenNumbers/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09_Arrays" expanded="True" />
+          <Node name="09_Arrays" expanded="True">
+            <Node name="P05_SumEvenNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -18,6 +25,7 @@
     <String>01_DayOfWeek/P01_DayOfWeek.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P05__SumEvenNumbers FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
