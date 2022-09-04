@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{7FF71F97-6BFF-41F6-91D0-19B597E65DB2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="01_Tetris/01_Tetris.cs">
-    <Files>
-      <File FileName="01_Tetris/01_Tetris.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Projects" expanded="True">
-            <Node name="01_Tetris" expanded="True">
-              <Node name="01_Tetris.cs" selected="True" />
-            </Node>
+          <Node name="Projects" expanded="True" selected="True">
+            <Node name="01_Tetris" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

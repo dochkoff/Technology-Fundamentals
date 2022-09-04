@@ -6,7 +6,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True" selected="True" />
+          <Node name="07_DataTypesAndVariables_More_Exercise" expanded="True">
+            <Node name="P02_FromLeftToTheRight" expanded="True">
+              <Node name="P02_FromLeftToTheRight.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

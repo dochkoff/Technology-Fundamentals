@@ -19,7 +19,7 @@ namespace _01_Tetris
         {
             Console.Title = "Tetris v1.0";
             Console.CursorVisible = false;
-            Console.SetWindowSize(40, 40);
+            //NOT SUPPORTED BY MACOS
             //Console.WindowHeight = ConsoleRows;
             //Console.WindowWidth = ConsoleCols;
             //Console.BufferHeight = ConsoleRows;
