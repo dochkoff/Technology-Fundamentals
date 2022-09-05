@@ -1,17 +1,11 @@
 ﻿<Properties StartupConfiguration="{FC74E077-895E-4076-A5D4-1F6DBE85587B}|Default">
   <MonoDevelop.Ide.ItemProperties.P01__Train FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P02_CommonElements/P02_CommonElements.cs">
-    <Files>
-      <File FileName="P02_CommonElements/Program.cs" Line="10" Column="14" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="10_Arrays_Exercise" expanded="True">
-            <Node name="P01_Train" expanded="True" />
-            <Node name="P02_CommonElements" expanded="True">
-              <Node name="P02_CommonElements.cs" selected="True" />
-            </Node>
+            <Node name="P03_Zig-ZagArrays" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -21,7 +15,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.P02__CommonElements FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
