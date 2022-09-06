@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_ArrayRotation", "P04_Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_TopIntegers", "P05_TopIntegers\P05_TopIntegers.csproj", "{548B01FD-381E-47FE-A56A-E8983F2838A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_EqualSum", "P06_EqualSum\P06_EqualSum.csproj", "{5C2C8203-FDE8-4080-A6CD-FE5FE1131983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_MaxSequenceOfEqualElements", "P07_MaxSequenceOfEqualElements\P07_MaxSequenceOfEqualElements.csproj", "{44701860-4396-4129-A156-FDEB0D7E77B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{548B01FD-381E-47FE-A56A-E8983F2838A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{548B01FD-381E-47FE-A56A-E8983F2838A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{548B01FD-381E-47FE-A56A-E8983F2838A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2C8203-FDE8-4080-A6CD-FE5FE1131983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2C8203-FDE8-4080-A6CD-FE5FE1131983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2C8203-FDE8-4080-A6CD-FE5FE1131983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2C8203-FDE8-4080-A6CD-FE5FE1131983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44701860-4396-4129-A156-FDEB0D7E77B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44701860-4396-4129-A156-FDEB0D7E77B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44701860-4396-4129-A156-FDEB0D7E77B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44701860-4396-4129-A156-FDEB0D7E77B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
