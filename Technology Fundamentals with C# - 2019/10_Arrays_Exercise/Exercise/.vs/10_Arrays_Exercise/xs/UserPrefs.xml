@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{FC74E077-895E-4076-A5D4-1F6DBE85587B}|Default">
-  <MonoDevelop.Ide.ItemProperties.P05__TopIntegers FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.P01__Train FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="P05_TopIntegers/P05_TopIntegers.cs">
     <Files>
-      <File FileName="P05_TopIntegers/P05_TopIntegers.cs" Line="10" Column="1" />
+      <File FileName="P05_TopIntegers/P05_TopIntegers.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="10_Arrays_Exercise" expanded="True">
+            <Node name="P04_ArrayRotation" expanded="True" />
             <Node name="P05_TopIntegers" expanded="True">
               <Node name="P05_TopIntegers.cs" selected="True" />
             </Node>
@@ -37,6 +37,7 @@
     <Watch file="../../../P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
     <Watch file="../../../P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
     <Watch file="../../../P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
