@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_EqualSum", "P06_EqualSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_MaxSequenceOfEqualElements", "P07_MaxSequenceOfEqualElements\P07_MaxSequenceOfEqualElements.csproj", "{44701860-4396-4129-A156-FDEB0D7E77B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_MagicSum", "P08_MagicSum\P08_MagicSum.csproj", "{8C220411-99B2-4713-BDA9-ACA5969D4D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_KaminoFactory", "P09_KaminoFactory\P09_KaminoFactory.csproj", "{28A38443-3AE3-4E76-A524-3F3CB2280E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{44701860-4396-4129-A156-FDEB0D7E77B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44701860-4396-4129-A156-FDEB0D7E77B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44701860-4396-4129-A156-FDEB0D7E77B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C220411-99B2-4713-BDA9-ACA5969D4D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C220411-99B2-4713-BDA9-ACA5969D4D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C220411-99B2-4713-BDA9-ACA5969D4D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C220411-99B2-4713-BDA9-ACA5969D4D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A38443-3AE3-4E76-A524-3F3CB2280E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A38443-3AE3-4E76-A524-3F3CB2280E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A38443-3AE3-4E76-A524-3F3CB2280E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A38443-3AE3-4E76-A524-3F3CB2280E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

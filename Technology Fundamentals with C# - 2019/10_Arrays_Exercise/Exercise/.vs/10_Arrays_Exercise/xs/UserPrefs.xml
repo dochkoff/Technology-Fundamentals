@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{FC74E077-895E-4076-A5D4-1F6DBE85587B}|Default">
   <MonoDevelop.Ide.ItemProperties.P01__Train FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P07_MaxSequenceOfEqualElements/P07_MaxSequenceOfEqualElements.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P09_KaminoFactory/P09_KaminoFactory.cs">
     <Files>
-      <File FileName="P07_MaxSequenceOfEqualElements/P07_MaxSequenceOfEqualElements.cs" Line="28" Column="19" />
+      <File FileName="P09_KaminoFactory/P09_KaminoFactory.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="10_Arrays_Exercise" expanded="True">
-            <Node name="P05_TopIntegers" expanded="True" />
-            <Node name="P06_EqualSum" expanded="True" />
-            <Node name="P07_MaxSequenceOfEqualElements" expanded="True">
-              <Node name="P07_MaxSequenceOfEqualElements.cs" selected="True" />
+            <Node name="P09_KaminoFactory" expanded="True">
+              <Node name="P09_KaminoFactory.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -40,6 +38,7 @@
     <Watch file="../../../P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
     <Watch file="../../../P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P09__KaminoFactory FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

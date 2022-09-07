@@ -16,12 +16,20 @@ namespace P07_MaxSequenceOfEqualElements
 
             for (int i = 0; i < input.Length - 1; i++)
             {
-                //for (int x = i + 1; x < input.Length; x++)
-                //{
-                if (input[i] == input[i + 1])
+                if (input.Length > 1)
                 {
-                    number = input[i];
-                    counter++;
+                    if (input[i] == input[i + 1])
+                    {
+                        number = input[i];
+                        counter++;
+
+
+                    }
+                    else
+                    {
+                        number = input[0];
+                        counter = 1;
+                    }
 
                     if (counter > maxSequence)
                     {
@@ -31,10 +39,9 @@ namespace P07_MaxSequenceOfEqualElements
                 }
                 else
                 {
-                    number = 0;
-                    counter = 1;
+                    sequenceNum = input[i];
+                    maxSequence = 1;
                 }
-                //}
             }
 
             while (maxSequence > 0)
