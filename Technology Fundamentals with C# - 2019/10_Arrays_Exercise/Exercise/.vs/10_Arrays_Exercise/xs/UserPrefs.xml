@@ -1,17 +1,10 @@
 ﻿<Properties StartupConfiguration="{FC74E077-895E-4076-A5D4-1F6DBE85587B}|Default">
   <MonoDevelop.Ide.ItemProperties.P01__Train FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P09_KaminoFactory/P09_KaminoFactory.cs">
-    <Files>
-      <File FileName="P09_KaminoFactory/P09_KaminoFactory.cs" Line="10" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10_Arrays_Exercise" expanded="True">
-            <Node name="P09_KaminoFactory" expanded="True">
-              <Node name="P09_KaminoFactory.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="10_Arrays_Exercise" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -38,10 +31,11 @@
     <Watch file="../../../P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
     <Watch file="../../../P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.P09__KaminoFactory FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P09_KaminoFactory/P09_KaminoFactory.cs" relfile="P09_KaminoFactory/P09_KaminoFactory.cs" line="23" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

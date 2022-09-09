@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A97B5438-822E-4FFF-A990-B7261D5562C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.01__EncryptSortAndPrintArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10_Arrays_More_Exercise" expanded="True" selected="True">
+            <Node name="01_EncryptSortAndPrintArray" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>input[1]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[1]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[1]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[2]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[3]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[4]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
+    <Watch file="../../../../Exercise/P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

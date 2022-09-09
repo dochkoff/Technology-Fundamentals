@@ -58,12 +58,11 @@ namespace P09_KaminoFactory
                         startingIndex = int.MaxValue;
                     }
 
-                    if (subSequence > subSequenceMax)
+                    if (subSequence > 1
+                        && subSequence > subSequenceMax
+                        && startingIndex < lowerIndex)
                     {
                         subSequenceMax = subSequence;
-                    }
-                    if (startingIndex < lowerIndex)
-                    {
                         lowerIndex = startingIndex;
                     }
                 }
@@ -76,14 +75,17 @@ namespace P09_KaminoFactory
                     bestSequenceIndex = lowerIndex;
                     bestSequenceRow = rowCounter;
                 }
-                else if (subSequenceMax == bestSubSequence && lowerIndex < bestSequenceIndex)
+                else if (subSequenceMax == bestSubSequence
+                    && lowerIndex < bestSequenceIndex)
                 {
                     bestSequence = sequence;
                     bestSequenceSum = sequenceSum;
                     bestSequenceIndex = lowerIndex;
                     bestSequenceRow = rowCounter;
                 }
-                else if (subSequenceMax == bestSubSequence && lowerIndex == bestSequenceIndex && sequenceSum > bestSequenceSum)
+                else if (subSequenceMax == bestSubSequence
+                    && lowerIndex == bestSequenceIndex
+                    && sequenceSum > bestSequenceSum)
                 {
                     bestSequence = sequence;
                     bestSequenceSum = sequenceSum;
@@ -95,7 +97,6 @@ namespace P09_KaminoFactory
 
             Console.WriteLine($"Best DNA sample {bestSequenceRow} with sum: {bestSequenceSum}.");
             Console.WriteLine(String.Join(" ", bestSequence));
-
         }
     }
 }
