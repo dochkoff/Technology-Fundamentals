@@ -1,18 +1,14 @@
-﻿<Properties StartupConfiguration="{A97B5438-822E-4FFF-A990-B7261D5562C3}|Default">
+﻿<Properties StartupConfiguration="{A0A48E78-394F-430C-BA78-08EC9462AAF3}|Default">
   <MonoDevelop.Ide.ItemProperties.01__EncryptSortAndPrintArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10_Arrays_More_Exercise" expanded="True" selected="True">
-            <Node name="01_EncryptSortAndPrintArray" expanded="True" />
-          </Node>
+          <Node name="10_Arrays_More_Exercise" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>input[1]</Value>
-        </State>
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -33,6 +29,7 @@
     <Watch file="../../../../Exercise/P04_ArrayRotation/P04_ArrayRotation.cs" line="9" column="21" endLine="9" endColumn="65" offsetX="-1" offsetY="-1" expression="input[0]" liveUpdate="False" />
     <Watch file="../../../../Exercise/P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P02__PascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
