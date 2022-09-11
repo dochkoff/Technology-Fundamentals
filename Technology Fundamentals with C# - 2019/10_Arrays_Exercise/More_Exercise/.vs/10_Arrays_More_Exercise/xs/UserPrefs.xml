@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{A0A48E78-394F-430C-BA78-08EC9462AAF3}|Default">
-  <MonoDevelop.Ide.ItemProperties.01__EncryptSortAndPrintArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10_Arrays_More_Exercise" expanded="True" selected="True" />
+          <Node name="10_Arrays_More_Exercise" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -31,6 +30,7 @@
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.P02__PascalTriangle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P01__EncryptSortAndPrintArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

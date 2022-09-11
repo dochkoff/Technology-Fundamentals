@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Linq;
 
-namespace _01_EncryptSortAndPrintArray
+namespace P01_EncryptSortAndPrintArray
 {
     class Program
     {
