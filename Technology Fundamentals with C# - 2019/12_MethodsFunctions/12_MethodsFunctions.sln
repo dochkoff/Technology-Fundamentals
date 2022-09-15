@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_SignOfIntegerNumbers", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Grades", "P02_Grades\P02_Grades.csproj", "{8AC60FE0-7B9B-4062-A8E5-6FACC3857700}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Calculations", "P03_Calculations\P03_Calculations.csproj", "{7CF900F9-42C9-4646-9BC3-340D8D5C78D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_PrintingTriangle", "P04_PrintingTriangle\P04_PrintingTriangle.csproj", "{1D3C174E-5938-4225-B7A7-E39BA8E1D5B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8AC60FE0-7B9B-4062-A8E5-6FACC3857700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AC60FE0-7B9B-4062-A8E5-6FACC3857700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AC60FE0-7B9B-4062-A8E5-6FACC3857700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF900F9-42C9-4646-9BC3-340D8D5C78D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF900F9-42C9-4646-9BC3-340D8D5C78D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF900F9-42C9-4646-9BC3-340D8D5C78D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF900F9-42C9-4646-9BC3-340D8D5C78D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3C174E-5938-4225-B7A7-E39BA8E1D5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3C174E-5938-4225-B7A7-E39BA8E1D5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3C174E-5938-4225-B7A7-E39BA8E1D5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3C174E-5938-4225-B7A7-E39BA8E1D5B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
