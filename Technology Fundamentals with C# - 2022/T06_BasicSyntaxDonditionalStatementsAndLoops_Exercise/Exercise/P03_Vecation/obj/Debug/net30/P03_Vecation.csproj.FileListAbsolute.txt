@@ -1,0 +1,9 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/bin/Debug/net30/P03_Vecation.exe.config
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/bin/Debug/net30/P03_Vecation.exe
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/bin/Debug/net30/P03_Vecation.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.exe
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/Exercise/P03_Vecation/obj/Debug/net30/P03_Vecation.pdb

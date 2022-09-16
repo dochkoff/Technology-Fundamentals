@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1703.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Ages", "01_Ages\01_Ages.csproj", "{110A6B87-9AEA-4618-8B05-3002306DA97C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Ages", "P01_Ages\P01_Ages.csproj", "{110A6B87-9AEA-4618-8B05-3002306DA97C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Division", "02_Division\02_Division.csproj", "{D1A9E738-B376-489F-B5D1-C4CF20E276AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Division", "P02_Division\P02_Division.csproj", "{D1A9E738-B376-489F-B5D1-C4CF20E276AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_PrintAndSum", "04_PrintAndSum\04_PrintAndSum.csproj", "{D79E0A8D-C8E2-433C-9D2D-86ECE09E5D79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_PrintAndSum", "P04_PrintAndSum\P04_PrintAndSum.csproj", "{D79E0A8D-C8E2-433C-9D2D-86ECE09E5D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Vecation", "03_Vecation\03_Vecation.csproj", "{D03545D7-141E-4F29-A643-D7F9B8C8E781}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Vecation", "P03_Vecation\P03_Vecation.csproj", "{D03545D7-141E-4F29-A643-D7F9B8C8E781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Login", "05_Login\05_Login.csproj", "{C88362DB-AB17-4BB3-A1BD-FC38E3BB1362}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Login", "P05_Login\P05_Login.csproj", "{C88362DB-AB17-4BB3-A1BD-FC38E3BB1362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_StrongNumber", "06_StrongNumber\06_StrongNumber.csproj", "{9BB90FBF-4800-414C-8674-370B45A4D161}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_StrongNumber", "P06_StrongNumber\P06_StrongNumber.csproj", "{9BB90FBF-4800-414C-8674-370B45A4D161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_VendingMachine", "07_VendingMachine\07_VendingMachine.csproj", "{6EE7B8C2-6DCD-45A8-9BEE-1615F920280E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_VendingMachine", "P07_VendingMachine\P07_VendingMachine.csproj", "{6EE7B8C2-6DCD-45A8-9BEE-1615F920280E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_TriangleOfNumbers", "08_TriangleOfNumbers\08_TriangleOfNumbers.csproj", "{62A24F94-DFB6-4F68-AD98-BE527D06B821}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_TriangleOfNumbers", "P08_TriangleOfNumbers\P08_TriangleOfNumbers.csproj", "{62A24F94-DFB6-4F68-AD98-BE527D06B821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_PadawanEquipment", "09_PadawanEquipment\09_PadawanEquipment.csproj", "{CD544373-AECE-481A-A932-08D1B5F9D37C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_PadawanEquipment", "P09_PadawanEquipment\P09_PadawanEquipment.csproj", "{CD544373-AECE-481A-A932-08D1B5F9D37C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_RageExpenses", "10_RageExpenses\10_RageExpenses.csproj", "{7F480F1F-5B62-4F87-A347-EB9190841F7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_RageExpenses", "P10_RageExpenses\P10_RageExpenses.csproj", "{7F480F1F-5B62-4F87-A347-EB9190841F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_Orders", "P11_Orders\P11_Orders.csproj", "{74E94747-B3B1-4EE8-8E03-AE4FE0AAF206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7F480F1F-5B62-4F87-A347-EB9190841F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F480F1F-5B62-4F87-A347-EB9190841F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F480F1F-5B62-4F87-A347-EB9190841F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E94747-B3B1-4EE8-8E03-AE4FE0AAF206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E94747-B3B1-4EE8-8E03-AE4FE0AAF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E94747-B3B1-4EE8-8E03-AE4FE0AAF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E94747-B3B1-4EE8-8E03-AE4FE0AAF206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
