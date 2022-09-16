@@ -6,7 +6,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="12_MethodsFunctions" expanded="True">
-            <Node name="P04_PrintingTriangle" expanded="True" selected="True" />
+            <Node name="P04_PrintingTriangle" selected="True" />
           </Node>
         </State>
       </Pad>

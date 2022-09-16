@@ -1,0 +1,16 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/bin/Debug/net5.0/09_SumOfOddNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/refint/09_SumOfOddNumbers.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/09_SumOfOddNumbers.genruntimeconfig.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/09_SumOfOddNumbers/obj/Debug/net5.0/ref/09_SumOfOddNumbers.dll

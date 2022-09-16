@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P10_MultiplicationTable/10_MultiplicationTable.csproj": {}
+  },
+  "projects": {
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P10_MultiplicationTable/10_MultiplicationTable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P10_MultiplicationTable/10_MultiplicationTable.csproj",
+        "projectName": "10_MultiplicationTable",
+        "projectPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P10_MultiplicationTable/10_MultiplicationTable.csproj",
+        "packagesPath": "/Users/Dochkoff/.nuget/packages/",
+        "outputPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P10_MultiplicationTable/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Dochkoff/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

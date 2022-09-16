@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P13_HolidaysBetweenTwoDates/13_HolidaysBetweenTwoDates.csproj": {}
+  },
+  "projects": {
+    "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P13_HolidaysBetweenTwoDates/13_HolidaysBetweenTwoDates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P13_HolidaysBetweenTwoDates/13_HolidaysBetweenTwoDates.csproj",
+        "projectName": "13_HolidaysBetweenTwoDates",
+        "projectPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P13_HolidaysBetweenTwoDates/13_HolidaysBetweenTwoDates.csproj",
+        "packagesPath": "/Users/Dochkoff/.nuget/packages/",
+        "outputPath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T05_BasicSyntaxConditionalStatementsAndLoops/P13_HolidaysBetweenTwoDates/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Dochkoff/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
