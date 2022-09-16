@@ -1,0 +1,16 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/bin/Debug/net5.0/05_Login.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/refint/05_Login.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/05_Login.genruntimeconfig.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/03_BasicSyntaxDonditionalStatementsAndLoops/05_Login/obj/Debug/net5.0/ref/05_Login.dll
