@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/bin/Debug/netcoreapp3.1/P04_SumOfChars.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/bin/Debug/netcoreapp3.1/P04_SumOfChars.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/bin/Debug/netcoreapp3.1/P04_SumOfChars.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/bin/Debug/netcoreapp3.1/P04_SumOfChars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/bin/Debug/netcoreapp3.1/P04_SumOfChars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P04_SumOfChars/obj/Debug/netcoreapp3.1/P04_SumOfChars.genruntimeconfig.cache

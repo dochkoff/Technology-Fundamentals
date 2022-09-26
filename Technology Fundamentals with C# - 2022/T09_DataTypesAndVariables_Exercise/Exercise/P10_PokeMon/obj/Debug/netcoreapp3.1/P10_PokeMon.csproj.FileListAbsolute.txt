@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/bin/Debug/netcoreapp3.1/P10_PokeMon.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/bin/Debug/netcoreapp3.1/P10_PokeMon.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/bin/Debug/netcoreapp3.1/P10_PokeMon.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/bin/Debug/netcoreapp3.1/P10_PokeMon.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/bin/Debug/netcoreapp3.1/P10_PokeMon.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/07_DataTypesAndVariables_Exercise/Exercise/P10_PokeMon/obj/Debug/netcoreapp3.1/P10_PokeMon.genruntimeconfig.cache

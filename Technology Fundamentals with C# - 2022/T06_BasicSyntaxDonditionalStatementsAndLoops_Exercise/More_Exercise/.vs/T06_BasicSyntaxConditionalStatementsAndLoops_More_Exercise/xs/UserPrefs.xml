@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{62879D48-B3CC-4F64-8EB4-A628C52A244B}|Default">
-  <MonoDevelop.Ide.ItemProperties.P05Messages PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P05__Messages PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P05Messages/P05Messages.cs">
-    <Files>
-      <File FileName="P05Messages/P05Messages.cs" Line="24" Column="54" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.P01__SortNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -21,5 +19,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.P01SortNumbers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHkO/a+yMXd3uCBXrDzMzQgEWHS3JAzRIV076dZbn92HEkxeXMh1l8RwhVh7VVmNJ4Lwzppm8XYuYTZE+4oAjg==",
+  "success": true,
+  "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T09_DataTypesAndVariables_Exercise/More_Exercise/P02_FromLeftToTheRight/P02_FromLeftToTheRight.csproj",
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

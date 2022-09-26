@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDWWJtyGQQzIu3NBk3yvvdsFXxHLzWAk5FTWIfMYhdSGdSbB8gOJ+H/hB5P5mP0eM4yy/HIUFQn8HTZMpuV4tw==",
+  "success": true,
+  "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T06_BasicSyntaxDonditionalStatementsAndLoops_Exercise/More_Exercise/P04_ReverseString/P04_ReverseString.csproj",
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

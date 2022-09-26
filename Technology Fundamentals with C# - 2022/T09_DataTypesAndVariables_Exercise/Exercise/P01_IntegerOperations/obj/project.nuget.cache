@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "myRm7iTfmGfpd+v5naxPYvUlORh2e0wGkKwGfDxZfpm9gqpj6dWW9et2ykTlxGw5jTOYnd5X6FxtFM1IskkI4A==",
+  "success": true,
+  "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2022/T09_DataTypesAndVariables_Exercise/Exercise/P01_IntegerOperations/P01_IntegerOperations.csproj",
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
