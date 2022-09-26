@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/bin/Debug/netcoreapp3.1/P06_ReversedChars.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/bin/Debug/netcoreapp3.1/P06_ReversedChars.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/bin/Debug/netcoreapp3.1/P06_ReversedChars.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/bin/Debug/netcoreapp3.1/P06_ReversedChars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/bin/Debug/netcoreapp3.1/P06_ReversedChars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/06_DataTypesAndVariables/P06_ReversedChars/obj/Debug/netcoreapp3.1/P06_ReversedChars.genruntimeconfig.cache
