@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hE7gx+iZk6zr4gRqI5GZyyhUd3H7FLYxbAxN4Vu0cq4qyx9ojs6CwTeRA9DRBgpXDvu1QRGdLSWLnGZxkNzyRw==",
+  "dgSpecHash": "q2tf3N+KLxi91xBgtG9neIZTTzqgA3dOJZZeBUIkJVNUmnYFpPx+aKYICuFQLn1I+I1E56xs7QJNu0XSRXs5KA==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P04_ReverseArrayOfStrings/P04_ReverseArrayOfStrings.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

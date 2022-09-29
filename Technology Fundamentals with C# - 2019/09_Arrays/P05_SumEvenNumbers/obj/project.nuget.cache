@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IIOzboOeW0gn35Rr0Z6IMw0fft/j0LP9N5g9aL2NBGvwgAflyLSg3JWnvUSLRRRpKSAOYa4I3XRahqq+yUSYSg==",
+  "dgSpecHash": "MG+7ybCpE10kel49C680uO59KVdU/i0rMWOQJXuS2IAy3aJv2rdYXThW6r+QC47C1ubBoQk6CzSfbdk/R0QQOA==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P05_SumEvenNumbers/P05_SumEvenNumbers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3Se9jpdsO6fyAKB//d53zfg05W3aZze+o8D9cIgnKWdP3VioI5RZLmDqqwPTsjdVJhFUeyKzVGEHGCeqtHKwmA==",
+  "dgSpecHash": "XeLzK4zi8O8CbuB2aGl3aA0Ekq0Nr1u933xv/dR3Ni0lOcva+8jM676ecAtUft4qNAE03L4rF3jPE0MwxpO1IQ==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/09_Arrays/P08_CondenseArrayToNumber/P08_CondenseArrayToNumber.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
