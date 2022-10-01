@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/bin/Debug/netcoreapp3.1/P02_CommonElements.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/bin/Debug/netcoreapp3.1/P02_CommonElements.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/bin/Debug/netcoreapp3.1/P02_CommonElements.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/bin/Debug/netcoreapp3.1/P02_CommonElements.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/bin/Debug/netcoreapp3.1/P02_CommonElements.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/obj/Debug/netcoreapp3.1/P02_CommonElements.genruntimeconfig.cache
