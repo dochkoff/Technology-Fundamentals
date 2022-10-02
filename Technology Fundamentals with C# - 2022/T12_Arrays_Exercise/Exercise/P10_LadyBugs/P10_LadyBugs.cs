@@ -14,8 +14,6 @@ namespace P10.LadyBugs
                 randomNumbers[i] = random.Next(100);
             }
 
-            Console.WriteLine(String.Join(" ", randomNumbers));
-
             //1. Initialize empty field
             int n = int.Parse(Console.ReadLine()); //Field size
             int[] field = new int[n];
