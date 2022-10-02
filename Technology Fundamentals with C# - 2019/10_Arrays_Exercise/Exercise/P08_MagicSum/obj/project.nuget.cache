@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1HAM0yrJpkzxR4xb6yUtOhKuTxUhPmrNbOSNnRCsY6S8fsAgWl5af9qH4S3Uxd41ApfsKAbX91P+tq3W6dkEPg==",
+  "dgSpecHash": "Sh9ToCv93KGpUZjMLnCZR/SvwfE/3OHWNbqlQOr7KutcWUDeicjqkQeexrDLxIDNdSc2w+OoJNG38u+0Z042IA==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/P08_MagicSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

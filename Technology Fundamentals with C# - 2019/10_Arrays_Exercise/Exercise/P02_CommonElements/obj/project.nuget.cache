@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mmqbiObgP1zn9WJXCbIW9cSdKkumq543B3+Qy/pnG2UhhFFshGJNx4Uatx6a6RjJrho2uTEE8Wau6JcauI9PXw==",
+  "dgSpecHash": "XTCMga+qE0Wyfwg1hqtNiJwkwqE//2UC7WLr1Gugw+qBOfGmKURtcY8c5R84Idx7QilxF3kXM3YT6QEj0wpA/Q==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P02_CommonElements/P02_CommonElements.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

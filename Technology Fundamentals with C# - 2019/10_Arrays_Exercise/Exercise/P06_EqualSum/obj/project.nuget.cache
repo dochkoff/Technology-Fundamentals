@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FRlUtpZx3lS2BvwxBW+KZpHC163+Kn0jfQv04dhAcydfyf8xUP8NVcvLAQG/xiVS/ujrInRtSJmaZYiOapHdYQ==",
+  "dgSpecHash": "07u+0VcubQhoG7ZiKGavfQ3dELohmR/BC0xWsYFwzIUXXXMfcr/B32ZXOO+wrwGv93NdEjb/n/L6rBjVM6RT6g==",
   "success": true,
   "projectFilePath": "/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P06_EqualSum/P06_EqualSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dochkoff/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/Dochkoff/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

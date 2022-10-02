@@ -1,0 +1,11 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/bin/Debug/netcoreapp3.1/P04_ArrayRotation.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/bin/Debug/netcoreapp3.1/P04_ArrayRotation.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/bin/Debug/netcoreapp3.1/P04_ArrayRotation.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/bin/Debug/netcoreapp3.1/P04_ArrayRotation.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/bin/Debug/netcoreapp3.1/P04_ArrayRotation.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P04_ArrayRotation/obj/Debug/netcoreapp3.1/P04_ArrayRotation.genruntimeconfig.cache
