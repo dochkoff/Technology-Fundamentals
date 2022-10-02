@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/bin/Debug/netcoreapp3.1/P08_MagicSum.deps.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/bin/Debug/netcoreapp3.1/P08_MagicSum.runtimeconfig.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/bin/Debug/netcoreapp3.1/P08_MagicSum.runtimeconfig.dev.json
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/bin/Debug/netcoreapp3.1/P08_MagicSum.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/bin/Debug/netcoreapp3.1/P08_MagicSum.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.AssemblyInfoInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.AssemblyInfo.cs
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.dll
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.pdb
+/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P08_MagicSum/obj/Debug/netcoreapp3.1/P08_MagicSum.genruntimeconfig.cache
