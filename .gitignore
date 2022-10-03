@@ -454,3 +454,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,macos,visualstudiocode
+*.ts alias
+*.mp4 alias
+Technology Fundamentals with C\# - 2019/10_Arrays_Exercise/Exercise/.vs/10_Arrays_Exercise/xs/UserPrefs.xml
