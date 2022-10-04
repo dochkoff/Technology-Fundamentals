@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{FC74E077-895E-4076-A5D4-1F6DBE85587B}|Default">
   <MonoDevelop.Ide.ItemProperties.P01__Train FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="P10_LadyBugs/P10_LadyBugs.cs">
+    <Files>
+      <File FileName="P10_LadyBugs/P10_LadyBugs.cs" Line="45" Column="58" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -26,7 +29,7 @@
     <Watch file="../../../P05_TopIntegers/P05_TopIntegers.cs" line="28" column="20" endLine="28" endColumn="28" offsetX="-1" offsetY="-1" expression="isBigger" liveUpdate="True" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Technology-Fundamentals/Technology Fundamentals with C# - 2019/10_Arrays_Exercise/Exercise/P09_KaminoFactory/P09_KaminoFactory.cs" relfile="P09_KaminoFactory/P09_KaminoFactory.cs" line="23" column="1" />
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
