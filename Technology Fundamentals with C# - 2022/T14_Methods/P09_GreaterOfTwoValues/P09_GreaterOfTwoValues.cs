@@ -15,59 +15,58 @@ namespace P09_GreaterOfTwoValues
             {
                 int number1 = int.Parse(input1);
                 int number2 = int.Parse(input2);
-                GetMax(number1, number2);
+                int result = GetMax(number1, number2);
+                Console.WriteLine(result);
             }
             else if (type == "char")
             {
                 char char1 = char.Parse(input1);
                 char char2 = char.Parse(input2);
-                GetMax(char1, char2);
+                char result = GetMax(char1, char2);
+                Console.WriteLine(result);
             }
             else
             {
-                char[] stringToCharArry1 = input1.ToCharArray();
-                char[] stringToCharArry2 = input2.ToCharArray();
-                int sumOfChars1 = 0;
-                int sumOfChars2 = 0;
-
-                for (int i = 0; i < stringToCharArry1.Length; i++)
-                {
-                    sumOfChars1 += stringToCharArry1[i];
-                    sumOfChars2 += stringToCharArry2[i];
-                }
-
-                if (sumOfChars1 > sumOfChars2)
-                {
-                    Console.WriteLine(input1);
-                }
-                else
-                {
-                    Console.WriteLine(input2);
-                }
+                string result = GetMax(input1, input2);
+                Console.WriteLine(result);
             }
         }
 
-        private static void GetMax(int number1, int number2)
+        private static string GetMax(string input1, string input2)
+        {
+            int result = input1.CompareTo(input2);
+
+            if (result > 0)
+            {
+                return input1;
+            }
+            else
+            {
+                return input2;
+            }
+        }
+
+        private static int GetMax(int number1, int number2)
         {
             if (number1 > number2)
             {
-                Console.WriteLine(number1);
+                return number1;
             }
             else
             {
-                Console.WriteLine(number2);
+                return number2;
             }
         }
 
-        private static void GetMax(char char1, char char2)
+        private static char GetMax(char char1, char char2)
         {
             if (char1 > char2)
             {
-                Console.WriteLine(char1);
+                return char1;
             }
             else
             {
-                Console.WriteLine(char2);
+                return char2;
             }
         }
     }
