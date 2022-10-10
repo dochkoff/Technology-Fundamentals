@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_RepeatString", "P07_Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_MathPower", "P08_MathPower\P08_MathPower.csproj", "{9B7F906C-F50B-4AF6-A07B-64864F7439F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_GreaterOfTwoValues", "P09_GreaterOfTwoValues\P09_GreaterOfTwoValues.csproj", "{4061FDC0-012E-4748-A2B4-14B35768A4F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{9B7F906C-F50B-4AF6-A07B-64864F7439F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B7F906C-F50B-4AF6-A07B-64864F7439F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B7F906C-F50B-4AF6-A07B-64864F7439F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4061FDC0-012E-4748-A2B4-14B35768A4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4061FDC0-012E-4748-A2B4-14B35768A4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4061FDC0-012E-4748-A2B4-14B35768A4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4061FDC0-012E-4748-A2B4-14B35768A4F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
