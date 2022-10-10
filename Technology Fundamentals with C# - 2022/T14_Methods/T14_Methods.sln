@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Grades", "P02_Grades\P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Calculations", "P03_Calculations\P03_Calculations.csproj", "{60CB82C7-2B11-43A8-90A4-83AC55CE12D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_PrintinTriangle", "P04_PrintinTriangle\P04_PrintinTriangle.csproj", "{A839E4BD-9E2C-4C31-BF96-69FDED8E86F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{60CB82C7-2B11-43A8-90A4-83AC55CE12D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60CB82C7-2B11-43A8-90A4-83AC55CE12D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60CB82C7-2B11-43A8-90A4-83AC55CE12D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A839E4BD-9E2C-4C31-BF96-69FDED8E86F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A839E4BD-9E2C-4C31-BF96-69FDED8E86F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A839E4BD-9E2C-4C31-BF96-69FDED8E86F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A839E4BD-9E2C-4C31-BF96-69FDED8E86F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
