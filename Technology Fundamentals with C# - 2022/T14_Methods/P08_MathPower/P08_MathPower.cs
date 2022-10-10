@@ -11,11 +11,12 @@ namespace P08_MathPower
             double result = RaiseToPower(number, power);
             Console.WriteLine(result);
 
-            static double RaiseToPower(double number, int power)
-            {
-                double result = Math.Pow(number, power);
-                return result;
-            }
+        }
+
+        static double RaiseToPower(double number, int power)
+        {
+            double result = Math.Pow(number, power);
+            return result;
         }
     }
 }
