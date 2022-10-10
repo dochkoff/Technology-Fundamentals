@@ -11,10 +11,11 @@ namespace P06_CalculateRectangleArea
             double area = CalculateRectangleArea(width, height);
             Console.WriteLine(area);
 
-            static double CalculateRectangleArea(double width, double height)
-            {
-                return width * height;
-            }
+        }
+
+        static double CalculateRectangleArea(double width, double height)
+        {
+            return width * height;
         }
     }
 }
