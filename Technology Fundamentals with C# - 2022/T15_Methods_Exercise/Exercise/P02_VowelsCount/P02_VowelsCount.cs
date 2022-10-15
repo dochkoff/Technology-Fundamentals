@@ -9,7 +9,7 @@ namespace P02_VowelsCount
         {
             string input = Console.ReadLine().ToLower();
 
-            Console.WriteLine(VowelsConter(input));
+            Console.WriteLine(VowelsConter(input););
         }
 
         private static int VowelsConter(string input)
