@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_MiddleCharacters", "P06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_NxNMatrix", "P07_NxNMatrix\P07_NxNMatrix.csproj", "{BA096E4C-4C8B-4D94-AC18-C2C266DE1824}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_FactorialDivision", "P08_FactorialDivision\P08_FactorialDivision.csproj", "{D8670E1E-19C5-4A9E-8B36-3E6340148B14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BA096E4C-4C8B-4D94-AC18-C2C266DE1824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA096E4C-4C8B-4D94-AC18-C2C266DE1824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA096E4C-4C8B-4D94-AC18-C2C266DE1824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8670E1E-19C5-4A9E-8B36-3E6340148B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8670E1E-19C5-4A9E-8B36-3E6340148B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8670E1E-19C5-4A9E-8B36-3E6340148B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8670E1E-19C5-4A9E-8B36-3E6340148B14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
