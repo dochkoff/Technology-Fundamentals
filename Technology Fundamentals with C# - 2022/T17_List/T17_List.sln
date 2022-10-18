@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_ListOfProducts", "P04_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_RemoveNegativesAndReverse", "P05_RemoveNegativesAndReverse\P05_RemoveNegativesAndReverse.csproj", "{59878FA0-0C14-4D6E-9D74-E4E1DE62B9D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_ListManipulationBasics", "P06_ListManipulationBasics\P06_ListManipulationBasics.csproj", "{220933EA-99F1-4372-BC65-17A9EFDD9216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{59878FA0-0C14-4D6E-9D74-E4E1DE62B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59878FA0-0C14-4D6E-9D74-E4E1DE62B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59878FA0-0C14-4D6E-9D74-E4E1DE62B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220933EA-99F1-4372-BC65-17A9EFDD9216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220933EA-99F1-4372-BC65-17A9EFDD9216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220933EA-99F1-4372-BC65-17A9EFDD9216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220933EA-99F1-4372-BC65-17A9EFDD9216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
