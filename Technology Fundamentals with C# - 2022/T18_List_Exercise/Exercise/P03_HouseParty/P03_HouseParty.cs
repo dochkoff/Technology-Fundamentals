@@ -9,7 +9,7 @@ namespace P03_HouseParty
         static void Main(string[] args)
         {
             int numberOfCommands = int.Parse(Console.ReadLine());
-            int counter = 0;
+            int counter = 1;
             List<string> command = new List<string>();
             List<string> names = new List<string>();
 
@@ -50,4 +50,5 @@ namespace P03_HouseParty
         }
     }
 }
+
 
