@@ -11,7 +11,7 @@ namespace P06_CardsGame
             List<int> firstPlayer = Console.ReadLine().Split().Select(int.Parse).ToList();
             List<int> secondPlayer = Console.ReadLine().Split().Select(int.Parse).ToList();
 
-            while (firstPlayer.Count > 0 || secondPlayer.Count > 0)
+            while (firstPlayer.Count > 0 && secondPlayer.Count > 0)
             {
                 if (firstPlayer[0] > secondPlayer[0])
                 {
