@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Students2.0", "P05_Stud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_StoreBoxes", "P06_StoreBoxes\P06_StoreBoxes.csproj", "{B0D957F9-5E87-4F41-A3C8-253B8B16648B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_VehicleCatalogue", "P07_VehicleCatalogue\P07_VehicleCatalogue.csproj", "{23BD99EB-75D8-4882-A464-D9D24444D87C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B0D957F9-5E87-4F41-A3C8-253B8B16648B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D957F9-5E87-4F41-A3C8-253B8B16648B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D957F9-5E87-4F41-A3C8-253B8B16648B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BD99EB-75D8-4882-A464-D9D24444D87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BD99EB-75D8-4882-A464-D9D24444D87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BD99EB-75D8-4882-A464-D9D24444D87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BD99EB-75D8-4882-A464-D9D24444D87C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
