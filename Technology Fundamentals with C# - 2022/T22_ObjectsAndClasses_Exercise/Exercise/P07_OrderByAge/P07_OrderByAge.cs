@@ -25,7 +25,9 @@ namespace P07_OrderByAge
                 input = Console.ReadLine();
             }
 
-            foreach (var person in persons)
+            var orderedByAge = persons.OrderBy(x => x.Age);
+
+            foreach (var person in orderedByAge)
             {
                 Console.WriteLine(person);
             }
