@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace P02_OddOccurrences
 {
@@ -10,21 +9,21 @@ namespace P02_OddOccurrences
         {
             string[] input = Console.ReadLine().ToLower().Split();
 
-            var wordsDic = new Dictionary<string, int>();
+            var wordsDict = new Dictionary<string, int>();
 
             foreach (var word in input)
             {
-                if (wordsDic.ContainsKey(word))
+                if (wordsDict.ContainsKey(word))
                 {
-                    wordsDic[word]++;
+                    wordsDict[word]++;
                 }
                 else
                 {
-                    wordsDic.Add(word, 1);
+                    wordsDict.Add(word, 1);
                 }
             }
 
-            foreach (var word in wordsDic)
+            foreach (var word in wordsDict)
             {
                 if (word.Value % 2 != 0)
                 {
