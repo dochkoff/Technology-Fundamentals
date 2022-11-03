@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1703.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_CountRealNumbers", "P01_CountRealNumbers\P01_CountRealNumbers.csproj", "{40CE91E1-23A3-40B6-A74B-24BCFA70B11D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_OddOccurrences", "P02_OddOccurrences\P02_OddOccurrences.csproj", "{CCC08D4A-DFF8-419A-9985-DE8CA180C1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40CE91E1-23A3-40B6-A74B-24BCFA70B11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CE91E1-23A3-40B6-A74B-24BCFA70B11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CE91E1-23A3-40B6-A74B-24BCFA70B11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC08D4A-DFF8-419A-9985-DE8CA180C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC08D4A-DFF8-419A-9985-DE8CA180C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC08D4A-DFF8-419A-9985-DE8CA180C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC08D4A-DFF8-419A-9985-DE8CA180C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
