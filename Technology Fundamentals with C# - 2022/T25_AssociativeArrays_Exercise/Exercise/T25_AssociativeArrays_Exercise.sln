@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_AMinerTask", "P02_AMine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Orders", "P03_Orders\P03_Orders.csproj", "{BF166A53-A6E2-47A8-926E-FF0256B65B81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_SoftUniParking", "P04_SoftUniParking\P04_SoftUniParking.csproj", "{644896B7-F0FB-4FA1-B8C1-FBFF8BEB7AB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF166A53-A6E2-47A8-926E-FF0256B65B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF166A53-A6E2-47A8-926E-FF0256B65B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF166A53-A6E2-47A8-926E-FF0256B65B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644896B7-F0FB-4FA1-B8C1-FBFF8BEB7AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644896B7-F0FB-4FA1-B8C1-FBFF8BEB7AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644896B7-F0FB-4FA1-B8C1-FBFF8BEB7AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644896B7-F0FB-4FA1-B8C1-FBFF8BEB7AB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
