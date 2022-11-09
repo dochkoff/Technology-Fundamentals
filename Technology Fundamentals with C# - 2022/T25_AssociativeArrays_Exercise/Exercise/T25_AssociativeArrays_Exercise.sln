@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_SoftUniParking", "P04_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Courses", "P05_Courses\P05_Courses.csproj", "{38B5B5A3-C74E-438B-B393-DBA1ED07E879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_StudentAcademy", "P06_StudentAcademy\P06_StudentAcademy.csproj", "{C587E979-93B2-41EB-8475-32DE0022B12B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{38B5B5A3-C74E-438B-B393-DBA1ED07E879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38B5B5A3-C74E-438B-B393-DBA1ED07E879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38B5B5A3-C74E-438B-B393-DBA1ED07E879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C587E979-93B2-41EB-8475-32DE0022B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C587E979-93B2-41EB-8475-32DE0022B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C587E979-93B2-41EB-8475-32DE0022B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C587E979-93B2-41EB-8475-32DE0022B12B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
