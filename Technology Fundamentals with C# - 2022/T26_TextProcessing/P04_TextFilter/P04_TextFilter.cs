@@ -13,7 +13,7 @@ namespace P04_TextFilter
 
             foreach (var currBanWord in bannedWords)
             {
-                text.Replace(currBanWord, new string('*', currBanWord.Length));
+                text = text.Replace(currBanWord, new string('*', currBanWord.Length));
             }
 
             Console.WriteLine(text);
