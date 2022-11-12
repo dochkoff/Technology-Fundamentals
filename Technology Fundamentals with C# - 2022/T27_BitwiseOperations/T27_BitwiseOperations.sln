@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_BinaryDigitsCount", "P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_BitAtPosition1", "P02_BitAtPosition1\P02_BitAtPosition1.csproj", "{FDBBD9A7-253C-4118-AE8A-4CF345129C49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_PthBit", "P03_PthBit\P03_PthBit.csproj", "{D5F5793E-0A93-4C38-B7E6-6EF747BE18EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FDBBD9A7-253C-4118-AE8A-4CF345129C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDBBD9A7-253C-4118-AE8A-4CF345129C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDBBD9A7-253C-4118-AE8A-4CF345129C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F5793E-0A93-4C38-B7E6-6EF747BE18EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F5793E-0A93-4C38-B7E6-6EF747BE18EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F5793E-0A93-4C38-B7E6-6EF747BE18EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F5793E-0A93-4C38-B7E6-6EF747BE18EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
