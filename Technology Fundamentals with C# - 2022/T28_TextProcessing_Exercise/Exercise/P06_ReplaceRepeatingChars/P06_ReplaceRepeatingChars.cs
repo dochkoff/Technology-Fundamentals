@@ -9,18 +9,14 @@ namespace P06_ReplaceRepeatingChars
         {
             string input = Console.ReadLine();
 
-            var sb = new StringBuilder();
-
             for (int i = 0; i < input.Length - 1; i++)
             {
                 if (input[i] != input[i + 1])
                 {
-                    sb.Append(input[i]);
+                    Console.Write(input[i]); ;
                 }
             }
-
-            sb.Append(input[input.Length - 1]);
-            Console.WriteLine(sb.ToString());
+            Console.Write(input[input.Length - 1]);
         }
     }
 }
