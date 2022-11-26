@@ -37,3 +37,4 @@ namespace P01_Furniture
             Console.WriteLine($"Total money spend: {totalSpend:F2}");
         }
     }
+}
