@@ -9,9 +9,8 @@ namespace P02_Race
     {
         static void Main(string[] args)
         {
-            List<string> names = Console.ReadLine()
-                .Split(", ")
-                .ToList();
+            string[] names = Console.ReadLine()
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries);
 
             var dic = new Dictionary<string, double>();
 
@@ -24,16 +23,35 @@ namespace P02_Race
             }
 
             string command;
-            while ((command = Console.ReadLine()) != "end of the race")
+            while ((command = Console.ReadLine()) != "end of race")
             {
-                string name = @"[A-Za-z]";
-                Regex regex = new Regex(name);
-                MatchCollection match = Regex.Matches(command, name);
+                Regex regexName = new Regex(@"[A-Za-z]");
+                MatchCollection matchNames = regexName.Matches(command);
+                string name = string.Empty;
+                foreach (Match match in matchNames)
+                {
+                    name += match.Value;
+                }
 
-                string distance = @"[A-Za-z]";
-                Regex regex = new Regex(distance);
-                MatchCollection match = Regex.Matches(command, name);
+                Regex regexDistance = new Regex(@"[0-9]");
+                MatchCollection matchDistances = regexDistance.Matches(command);
+                double distance = 0;
+                foreach (Match match in matchDistances)
+                {
+                    distance += double.Parse(match.Value);
+                }
+
+                if (dic.ContainsKey(name))
+                {
+                    dic[name] += distance;
+                }
             }
+
+            dic = dic.OrderByDescending(kvp => kvp.Value)
+                .ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+            Console.WriteLine($"1st place: {dic.Keys.ElementAt(0)}");
+            Console.WriteLine($"2nd place: {dic.Keys.ElementAt(1)}");
+            Console.WriteLine($"3rd place: {dic.Keys.ElementAt(2)}");
         }
     }
 }
