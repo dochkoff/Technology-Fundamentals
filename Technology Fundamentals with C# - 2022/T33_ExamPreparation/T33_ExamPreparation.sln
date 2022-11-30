@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_SecretChat", "P01_SecretChat\P01_SecretChat.csproj", "{83DEBD64-0C12-4CF8-8AF0-C2615714413E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_FancyBarcodes", "P02_FancyBarcodes\P02_FancyBarcodes.csproj", "{CF2DEF57-096F-4D28-AEC0-DAFA2A104C5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83DEBD64-0C12-4CF8-8AF0-C2615714413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83DEBD64-0C12-4CF8-8AF0-C2615714413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83DEBD64-0C12-4CF8-8AF0-C2615714413E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2DEF57-096F-4D28-AEC0-DAFA2A104C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2DEF57-096F-4D28-AEC0-DAFA2A104C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2DEF57-096F-4D28-AEC0-DAFA2A104C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2DEF57-096F-4D28-AEC0-DAFA2A104C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
