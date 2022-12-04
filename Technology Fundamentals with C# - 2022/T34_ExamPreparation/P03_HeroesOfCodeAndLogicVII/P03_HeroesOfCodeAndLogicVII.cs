@@ -112,4 +112,3 @@ namespace P03_HeroesOfCodeAndLogicVII
         }
     }
 }
-
