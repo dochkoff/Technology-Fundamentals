@@ -18,3 +18,5 @@ Additional technologies needed by every software developer are studied, such as 
 - Basics of web development
 - Understanding the interrelationship between different IT concepts
 - Handling the standard functionality of the programming language
+
+![Programming Fundamentals with C# - September 2022 - Certificate](https://user-images.githubusercontent.com/74410756/205981633-405e7d76-d3af-4ffc-9227-b1e17d7bbdea.jpeg)
