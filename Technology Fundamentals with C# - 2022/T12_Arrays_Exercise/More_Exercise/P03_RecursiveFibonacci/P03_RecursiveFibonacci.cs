@@ -15,6 +15,7 @@ namespace P03_RecursiveFibonacci
             if (index == 1 || index == 2)
             {
                 Console.WriteLine(n1);
+                return;
             }
 
             for (int i = 2; i < index; i++)
@@ -29,4 +30,3 @@ namespace P03_RecursiveFibonacci
         }
     }
 }
-
