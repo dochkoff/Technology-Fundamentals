@@ -8,6 +8,8 @@ namespace ParkingSystem.Data.Models
         public string CarMake { get; set; }
         [Required]
         public string PlateNumber { get; set; }
+        [Required]
+        public string TimeAdd { get; set; }
     }
 }
 
